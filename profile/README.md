@@ -1,5 +1,1 @@
-The Fieldlab Industrial Electrification (FLIE) is an initiative by five founding partners aimed at practically supporting the energy transition in the Rotterdam Industrial Port area. The partners include Deltalinqs, FME, Port of Rotterdam, InnovationQuarter, and TNO. With the Fieldlab, we provide concrete solutions and bring together ambitious companies looking to achieve climate goals through exploring and implementing electrification solutions. This is done by offering feasibility and pilot studies. In feasibility studies, we leverage our knowledge and network through desk research activities to assist the client, including finding a launching customer, benchmarking technology, and securing financing. In pilot studies, we use our infrastructure and pilot hall to validate (power-to-X) technology in an operational setting at an industrially relevant scale. In addition, FLIE aims to substantially contribute to the human capital agenda by developing digital twins and to validate the models with physical data obtained from the power-to-X systems.
-
-This is repository for Open Source Digital Twin Tool for power-to-X system in FLIE.
-
-website: www.flie.nl
+This is repository for TNO PolluX Digital Twin for power-to-X .
